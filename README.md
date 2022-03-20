@@ -1,3 +1,4 @@
-# Leftovers Rest API
+# Leftovers Firebase Functions
 
 Leftovers 🥘
+
